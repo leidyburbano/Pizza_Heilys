@@ -1,6 +1,10 @@
-@extends('layouts.app')
 
+
+
+@extends('layouts.app')
+<img src="https://boston-pizzas.com/img/sites/boston-pizzas.com-banner.jpg?w=2000&h=200&fit=crop&1568633703">
 @section('content')
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
